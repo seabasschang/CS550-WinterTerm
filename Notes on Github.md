@@ -4,6 +4,7 @@
 * Commits: Changes to the code
 * Repositories: Folders organizing all kinds of relevant stuff
 * Pull Requests: Can I merge into the branch? 
+
   * [Github Basics](https://guides.github.com/activities/hello-world/)
   * [Markdown Basics](https://guides.github.com/features/mastering-markdown/)
 ## Some Wisdom:
