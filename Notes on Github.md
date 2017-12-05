@@ -12,4 +12,4 @@
 * (Forking, or copying a repository, is basically only applicable in groups or things you don't want to mess up.)
 * (Deleting repositories is in the settings. Deleting pull requests and branches is under pull requests.)
 *
- * [Quiz Link](https://github.com/seabasschang/CS550-WinterTerm/blob/master/MA1-%20Github%20Quiz/MA1:%20Github%20Quiz.md)
+ * [Quiz Link](https://github.com/seabasschang/CS550-WinterTerm/blob/master/MA1-%20Github%20Quiz/Sebastian's%20Fantastic%20Quiz!.md)
